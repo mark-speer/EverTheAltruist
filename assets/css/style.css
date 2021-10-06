@@ -637,6 +637,9 @@ body {
     font-size: 14px;
   }
   
+  #about .emb {
+    margin-top: 15px;
+  }
 
   /* Solutions Section
   --------------------------------*/
