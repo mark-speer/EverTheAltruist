@@ -372,6 +372,7 @@ body {
   @media (min-width: 1024px) {
     #hero {
       background-attachment: fixed;
+      background: url(../img/inversebanner.webp) top center;
     }
   }
 
@@ -559,7 +560,6 @@ body {
   
   #about .about-container .background {
     min-height: 450px;
-    background: url(../img/colors.jpg)  center top no-repeat;
     margin-bottom: 15px;
   }
 
